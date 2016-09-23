@@ -6,3 +6,4 @@ Stages: Alpha: first try, tested just for examples, unefficient Beta: efficient 
 Problem/Projects List: 
 "Blackjack Card Game"; Link: unique idea-no link; Stage: Final; Comments: Not tested enough!;
 "ReadFromFile&QuickSort"; Link: "https://sites.google.com/site/fiicoursepoo/labs/lab1"; Stage: Final; 
+"PointerWorkMatrixCircle"; Link: "https://sites.google.com/site/fiicoursepoo/labs/lab1"; Stage: Final;
