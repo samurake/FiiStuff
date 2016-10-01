@@ -8,3 +8,4 @@ Problem/Projects List:
 "ReadFromFile&QuickSort"; Link: "https://sites.google.com/site/fiicoursepoo/labs/lab1"; Stage: Final; 
 "PointerWorkMatrixCircle"; Link: "https://sites.google.com/site/fiicoursepoo/labs/lab1"; Stage: Final;
 "SimpleListOfNumbersClass"; Link: "https://sites.google.com/site/fiicoursepoo/labs/lab-2"; Stage: Final;
+"SuperChargingOperators"; Link: "https://sites.google.com/site/fiicoursepoo/labs/lab-3"; Stage: Final;
