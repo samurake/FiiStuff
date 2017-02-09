@@ -1,0 +1,7 @@
+Commands Used to compile this in Linux.
+Used Ubuntu 16.10.
+
+yacc -d project.y
+lex project.l
+gcc lex.yy.c y.tab.c -ll -ly -o output
+./output input.txt

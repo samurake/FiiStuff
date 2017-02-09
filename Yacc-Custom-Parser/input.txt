@@ -1,0 +1,69 @@
+var a = 3;
+var b = -2;
+var c = 1;
+var z = 10;
+var y = 10;
+var d;
+var e;
+string k='something';
+string h='ceva';
+string j;
+var kuk = -14;
+var l;
+var s;
+bgin {
+
+if ( z==y )
+z+1
+endif;
+
+if ( z==y )
+z+1
+else
+z+2
+endif;
+
+while ( z == y ) then
+z+1
+endwhile;
+
+for ( z==1 , z<=y , z+1 ) then
+y+1
+endfor;
+l=12+14;
+a=l*9;
+
+s=a+1;
+print(s);
+
+print(z);
+print(a);
+
+b = b + modul(-2);
+print(c);
+
+c=cmmmc(23,10);
+print(b);
+
+d = minim(minim(5+6,7), 2)*5+6;
+print(d);
+
+e = y;
+print(e);
+
+j=k^h;
+print(j);
+
+j='sir1'^'sir2';
+print(j);
+
+
+j=k^'sir3';
+print(j);
+
+print(2+3);
+kuk = kuk - 12;
+print(kuk);
+print(a+minim(2,3));
+}
+end
