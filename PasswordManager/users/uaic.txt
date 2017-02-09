@@ -1,0 +1,8 @@
+#
+1
+0
+primaparola
+pass
+default
+www.google.ro
+
